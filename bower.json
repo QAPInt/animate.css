@@ -8,5 +8,6 @@
     "Gemfile",
     "Gemfile.lock",
     "*.md"
-  ]
+  ],
+  "version": null
 }
