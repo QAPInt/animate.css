@@ -1,4 +1,9 @@
 @keyframes bounceOutLeft {
+
+  0.1% {
+    transform-origin: 0 0;
+  }
+
   20% {
     opacity: 1;
     transform: translate3d(20px, 0, 0);

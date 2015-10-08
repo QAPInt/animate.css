@@ -1,4 +1,9 @@
 @keyframes bounceOutDown {
+  
+  0.1% {
+    transform-origin: 0 0;
+  }
+
   20% {
     transform: translate3d(0, 10px, 0);
   }

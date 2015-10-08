@@ -1,6 +1,11 @@
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
 
 @keyframes rollOut {
+
+  0.1% {
+    transform-origin: 0 0;
+  }
+  
   from {
     opacity: 1;
   }
