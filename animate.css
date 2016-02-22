@@ -2923,6 +2923,10 @@ Copyright (c) 2015 Daniel Eden
   50% {
     opacity: 1;
   }
+
+  to {
+    opacity: 1;
+  }
 }
 
 @keyframes zoomIn {
@@ -2933,6 +2937,10 @@ Copyright (c) 2015 Daniel Eden
   }
 
   50% {
+    opacity: 1;
+  }
+
+  to {
     opacity: 1;
   }
 }
@@ -2963,6 +2971,10 @@ Copyright (c) 2015 Daniel Eden
     -webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
   }
+
+  to {
+    opacity: 1;
+  }
 }
 
 @keyframes zoomInDown {
@@ -2985,6 +2997,10 @@ Copyright (c) 2015 Daniel Eden
     transform: scale3d(.475, .475, .475) translate3d(0, 60px, 0);
     -webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
+  }
+
+  to {
+    opacity: 1;
   }
 }
 
@@ -3014,6 +3030,10 @@ Copyright (c) 2015 Daniel Eden
     -webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
   }
+
+  to {
+    opacity: 1;
+  }
 }
 
 @keyframes zoomInLeft {
@@ -3036,6 +3056,10 @@ Copyright (c) 2015 Daniel Eden
     transform: scale3d(.475, .475, .475) translate3d(10px, 0, 0);
     -webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
+  }
+
+  to {
+    opacity: 1;
   }
 }
 
@@ -3065,6 +3089,10 @@ Copyright (c) 2015 Daniel Eden
     -webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
   }
+
+  to {
+    opacity: 1;
+  }
 }
 
 @keyframes zoomInRight {
@@ -3087,6 +3115,10 @@ Copyright (c) 2015 Daniel Eden
     transform: scale3d(.475, .475, .475) translate3d(-10px, 0, 0);
     -webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
+  }
+
+  to {
+    opacity: 1;
   }
 }
 
@@ -3116,6 +3148,10 @@ Copyright (c) 2015 Daniel Eden
     -webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
   }
+
+  to {
+    opacity: 1;
+  }
 }
 
 @keyframes zoomInUp {
@@ -3138,6 +3174,10 @@ Copyright (c) 2015 Daniel Eden
     transform: scale3d(.475, .475, .475) translate3d(0, -60px, 0);
     -webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
     animation-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
+  }
+
+  to {
+    opacity: 1;
   }
 }
 
