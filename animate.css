@@ -2048,6 +2048,7 @@ Copyright (c) 2015 Daniel Eden
   to {
     -webkit-transform: perspective(400px);
     transform: perspective(400px);
+    opacity: 1;
   }
 }
 
@@ -2081,6 +2082,7 @@ Copyright (c) 2015 Daniel Eden
   to {
     -webkit-transform: perspective(400px);
     transform: perspective(400px);
+    opacity: 1;
   }
 }
 
@@ -2121,6 +2123,7 @@ Copyright (c) 2015 Daniel Eden
   to {
     -webkit-transform: perspective(400px);
     transform: perspective(400px);
+    opacity: 1;
   }
 }
 
@@ -2154,6 +2157,7 @@ Copyright (c) 2015 Daniel Eden
   to {
     -webkit-transform: perspective(400px);
     transform: perspective(400px);
+    opacity: 1;
   }
 }
 
